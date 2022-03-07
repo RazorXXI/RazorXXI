@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RazorXXI
 - 👀 I’m interested in 8bits games and retro developing.
-- 🌱 I’m currently learning game develop with Unity 3D
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning game develop with Unity 3D.
 - 📫 How to reach me razorxxi@protonmail.com
 
 <!---
