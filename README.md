@@ -10,6 +10,9 @@
   <a href="https://docs.unity3d.com/Manual/index.html">
     <img src="https://img.shields.io/badge/UnityDoc-2020.3-green">
   </a>
+  <a href="https://docs.unity3d.com/ScriptReference/index.html">
+    <img src="https://img.shields.io/badge/UnityAPI-2020.3-blue">
+  </a>
 </p>
 
 <!---
