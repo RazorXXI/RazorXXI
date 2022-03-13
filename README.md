@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorXXI&count_private=true&show_icons=true&theme=tokyonight&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorXXI&repo=github-readme-stats" />
 </a>
 
 - 👋 Hi, I’m @RazorXXI
