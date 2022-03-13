@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazorXXI&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorXXI&count_private=true&show_icons=true&theme=tokyonight&repo=github-readme-stats" />
+</a>
 
 - 👋 Hi, I’m @RazorXXI
 - 👀 I’m interested in 8bits games and retro developing.
