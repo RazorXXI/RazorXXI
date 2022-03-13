@@ -1,7 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazorXXI&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <p align="center">
   <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-2020.3.25f1-red"
@@ -14,6 +10,11 @@
     <img src="https://img.shields.io/badge/UnityAPI-2020.3-blue">
   </a>
 </p>
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazorXXI&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 > GitHub [RazorXXI](https://github.com/RazorXXI) &nbsp;&middot;&nbsp;
 > Twitter [@Jlromero79](https://twitter.com/Jlromero79)
