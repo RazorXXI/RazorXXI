@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Unity-2020.3.25f1-red"
          alt="Unity">
   </a>
+  <a href="https://docs.unity3d.com/Manual/index.html">
+    <img src="https://img.shields.io/badge/UnityDoc-2020.3-green">
+  </a>
 </p>
 
 <!---
