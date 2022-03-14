@@ -17,6 +17,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazorXXI)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 > GitHub [RazorXXI](https://github.com/RazorXXI) &nbsp;&middot;&nbsp;
 > Twitter [@Jlromero79](https://twitter.com/Jlromero79)
 <!---
