@@ -9,6 +9,9 @@
   <a href="https://docs.unity3d.com/ScriptReference/index.html">
     <img src="https://img.shields.io/badge/UnityAPI-2020.3-blue">
   </a>
+  <a href="https://docs.oracle.com/javase/8/docs/api/">
+    <img src="https://img.shields.io/badge/JavaAPI-SE8-blue">
+  </a>
 </p>
 
 <p align="center">
