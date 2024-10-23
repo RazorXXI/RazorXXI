@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RazorXXI&count_private=true&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RazorXXI&count_private=true&show_icons=true&theme=dracula&locale=es" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorXXI"/>
